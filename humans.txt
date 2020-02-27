@@ -1,4 +1,10 @@
-/* TEAM */
+/* New TEAM */
+	Developer: Alfred Dagenais
+	Contact: https://www.alfreddagenais.com
+	Twitter: @AlfredDagenais
+	Location: Montreal, Canada
+
+/* Old TEAM */
 	Developer: Fabio Jun
 	Contact:
 	Twitter:

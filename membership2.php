@@ -1,13 +1,12 @@
 <?php
 /**
- * Plugin Name: Membership 2 Pro
- * Plugin URI:  https://premium.wpmudev.org/project/membership/
- * Version:     1.1.6
+ * Plugin Name: Membership 2
+ * Plugin URI:  https://github.com/alfreddagenais/membership-2
+ * Version:     5.0.0
  * Build Stamp: BUILDTIME
  * Description: The most powerful, easy to use and flexible membership plugin for WordPress sites available.
- * Author:      WPMU DEV
- * Author URI:  http://premium.wpmudev.org/
- * WDP ID:      1003656
+ * Author:      Alfred Dagenais
+ * Author URI:  https://www.alfreddagenais.com
  * License:     GPL2
  * License URI: http://opensource.org/licenses/GPL-2.0
  * Text Domain: membership2
@@ -70,7 +69,7 @@ function membership2_pro_init_app() {
 	 *
 	 * @since  1.0.0
 	 */
-	define( 'MS_PLUGIN_VERSION', '1.1.6' );
+	define( 'MS_PLUGIN_VERSION', '5.0.0' );
 
 	/**
 	 * Free or pro plugin?

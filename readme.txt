@@ -1,9 +1,9 @@
 === Membership 2 ===
-Contributors: WPMUDEV
+Contributors: Alfred Dagenais
 Tags: Content Protection, Control Access, Membership, Membership 2, Multisite Membership, Paid Membership, Pay Wall, Paying Users, Registration, Restrict Content, Subscription, WordPress Membership, WPMU DEV
 Requires at least: 3.7
-Tested up to: 4.9.6
-Stable tag: 4.1.5
+Tested up to: 5.3.2
+Stable tag: 5.0.0
 
 Membership 2 transforms your WordPress website into a fully functional membership site.
 
@@ -109,6 +109,14 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 11. Convince your users with a modern, clean and professional checkout form
 
 == Changelog ==
+
+= 5.0.0 =
+* Changed: Membership now developped by Alfred Dagenais
+
+= 4.1.6 =
+* Added: New define MS_ADMIN_EMAIL_CAPABILITY for additional roles on email copy
+* Added: New filter ms_controller_frontend_load_jquery_validate to disable jQuery validate.
+* Added: New Add-on for Google reCaptcha in registration and login forms.
 
 = 4.1.5 =
 * Added: New filter ms_controller_frontend_resources_load to disable membership front scripts from loading on all pages

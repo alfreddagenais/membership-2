@@ -1,9 +1,12 @@
 Plugin Name: Membership 2
-Author:      Paul Kevin, Ashok Kumar Nath, Philipp Stracker
+Author:      Alfred Dagenais, Paul Kevin, Ashok Kumar Nath, Philipp Stracker
 Build Stamp: BUILDTIME
 
 Change Log:
 ----------------------------------------------------------------------
+
+5.0.0
+- Changed: Membership now developped by Alfred Dagenais
 
 1.1.6
 - Added: New define MS_ADMIN_EMAIL_CAPABILITY for additional roles on email copy
