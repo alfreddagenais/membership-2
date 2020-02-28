@@ -4,6 +4,8 @@ Tags: Content Protection, Control Access, Membership, Membership 2, Multisite Me
 Requires at least: 3.7
 Tested up to: 5.3.2
 Stable tag: 5.0.0
+GitHub Plugin URI: alfreddagenais/membership-2
+GitHub Plugin URI: https://github.com/alfreddagenais/membership-2
 
 Membership 2 transforms your WordPress website into a fully functional membership site.
 

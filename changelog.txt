@@ -1,6 +1,8 @@
 Plugin Name: Membership 2
 Author:      Alfred Dagenais, Paul Kevin, Ashok Kumar Nath, Philipp Stracker
 Build Stamp: BUILDTIME
+GitHub Plugin URI: alfreddagenais/membership-2
+GitHub Plugin URI: https://github.com/alfreddagenais/membership-2
 
 Change Log:
 ----------------------------------------------------------------------

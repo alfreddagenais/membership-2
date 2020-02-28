@@ -1,6 +1,6 @@
 # Membership
 
-**INACTIVE NOTICE: This plugin is unsupported by WPMUDEV, we've published it here for those technical types who might want to fork and maintain it for their needs.**
+Membership 2 transforms your WordPress website into a fully functional membership site.
 
 ## Translations
 

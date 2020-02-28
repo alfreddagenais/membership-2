@@ -10,6 +10,8 @@
  * License:     GPL2
  * License URI: http://opensource.org/licenses/GPL-2.0
  * Text Domain: membership2
+ * GitHub Plugin URI: alfreddagenais/membership-2
+ * GitHub Plugin URI: https://github.com/alfreddagenais/membership-2
  *
  * @package Membership2
  */
